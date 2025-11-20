@@ -1,0 +1,5 @@
+{
+  "name": "QA Skill Assessment Generator",
+  "description": "An application that generates tailored test scenarios for QA teams based on selected skill themes. It uses an LLM to create questions and provide feedback on the user's answers, helping to enhance critical thinking and problem-solving skills.",
+  "requestFramePermissions": []
+}
